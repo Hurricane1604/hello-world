@@ -1,3 +1,3 @@
 # hello-world
-learning GitHub : )
+learning GitHub : ) \n
 learning how to make a commit change atm :/
